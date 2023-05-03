@@ -1,0 +1,5 @@
+jupyterlab
+func_adl_servicex[local] # Because we want to be able to all run locally
+# func-adl-servicex-xaodr21
+# func-adl-servicex-xaodr24
+matplotlib
